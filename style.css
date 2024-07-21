@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(37, 19, 19);
+    color:white;
+    font-weight: bolder;
+    font-size: large;
+}
+
+#img-div img{
+   max-width: 100%;
+   border-radius: 30px;
+   box-shadow: 2px 2px rgb(175, 166, 166);
+}
+
+#main{
+    display: block;
+    width: 50%;
+    margin: auto;
+   
+
+}
+#title h1{
+    text-align: center;
+} 
+a{
+    border:1px solid white;
+    padding:10px;
+    text-decoration: none;
+    color:white;
+    border-radius: 5px;
+}
